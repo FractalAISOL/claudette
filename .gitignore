@@ -1,0 +1,26 @@
+node_modules/
+.keys/
+*.key
+*.pem
+.env
+.env.*
+!.env.example
+artifacts/
+cache/
+typechain-types/
+coverage/
+coverage.json
+agent/redteam-results/
+.DS_Store
+target/
+.next/
+.vercel/
+test-ledger/
+*.tsbuildinfo
+next-env.d.ts
+# Old Robinhood Chain (EVM) build and unpublished assets
+contracts/
+web/
+web-orbital/
+promo/
+brand/
